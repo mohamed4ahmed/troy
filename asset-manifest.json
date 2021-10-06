@@ -5,8 +5,8 @@
     "static/js/1.2124fdcd.chunk.js": "/troy/static/js/1.2124fdcd.chunk.js",
     "static/js/1.2124fdcd.chunk.js.map": "/troy/static/js/1.2124fdcd.chunk.js.map",
     "main.css": "/troy/static/css/main.0144ab48.chunk.css",
-    "main.js": "/troy/static/js/main.bfb08b5b.chunk.js",
-    "main.js.map": "/troy/static/js/main.bfb08b5b.chunk.js.map",
+    "main.js": "/troy/static/js/main.fdc81325.chunk.js",
+    "main.js.map": "/troy/static/js/main.fdc81325.chunk.js.map",
     "runtime-main.js": "/troy/static/js/runtime-main.c45d6bc7.js",
     "runtime-main.js.map": "/troy/static/js/runtime-main.c45d6bc7.js.map",
     "static/css/4.8770ffec.chunk.css": "/troy/static/css/4.8770ffec.chunk.css",
@@ -44,10 +44,10 @@
     "static/media/bg-white.webp": "/troy/static/media/bg-white.830f0165.webp",
     "static/media/bg_blog_home.8e43a4c4.webp": "/troy/static/media/bg_blog_home.8e43a4c4.webp",
     "static/media/feedback.svg": "/troy/static/media/feedback.5c4d4a37.svg",
-    "static/media/logo-web-black.3323fa4a.png": "/troy/static/media/logo-web-black.3323fa4a.png",
-    "static/media/logo-web-white.800fc817.png": "/troy/static/media/logo-web-white.800fc817.png",
+    "static/media/logo-web-black.2cc9e26f.png": "/troy/static/media/logo-web-black.2cc9e26f.png",
+    "static/media/logo-web-white.13bec742.png": "/troy/static/media/logo-web-white.13bec742.png",
     "static/media/logoMain.b3f969f3.png": "/troy/static/media/logoMain.b3f969f3.png",
-    "static/media/loship.22467819.png": "/troy/static/media/loship.22467819.png",
+    "static/media/loship.bb51e2be.png": "/troy/static/media/loship.bb51e2be.png",
     "static/media/membership.72482d4f.svg": "/troy/static/media/membership.72482d4f.svg"
   },
   "entrypoints": [
@@ -55,6 +55,6 @@
     "static/css/4.8770ffec.chunk.css",
     "static/js/4.72edae8d.chunk.js",
     "static/css/main.0144ab48.chunk.css",
-    "static/js/main.bfb08b5b.chunk.js"
+    "static/js/main.fdc81325.chunk.js"
   ]
 }
