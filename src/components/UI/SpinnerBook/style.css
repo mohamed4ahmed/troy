@@ -26,7 +26,7 @@
 }
 
 .blue {
-	--bg: linear-gradient(50deg, rgba(246, 194, 73, 0.8)  0%, rgba(255, 156, 8, 0.981)  100%);
+	--bg: linear-gradient(50deg, #a96308 0%, #a38667 100%);
 	margin-left: var(--hm);
 	animation: attract-blue var(--animation);
 }
