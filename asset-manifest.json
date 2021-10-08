@@ -4,14 +4,14 @@
     "static/js/0.0ea27c72.chunk.js.map": "/troy/static/js/0.0ea27c72.chunk.js.map",
     "static/js/1.2124fdcd.chunk.js": "/troy/static/js/1.2124fdcd.chunk.js",
     "static/js/1.2124fdcd.chunk.js.map": "/troy/static/js/1.2124fdcd.chunk.js.map",
-    "main.css": "/troy/static/css/main.b889eca3.chunk.css",
-    "main.js": "/troy/static/js/main.737a2293.chunk.js",
-    "main.js.map": "/troy/static/js/main.737a2293.chunk.js.map",
+    "main.css": "/troy/static/css/main.a95f37a8.chunk.css",
+    "main.js": "/troy/static/js/main.8c95c866.chunk.js",
+    "main.js.map": "/troy/static/js/main.8c95c866.chunk.js.map",
     "runtime-main.js": "/troy/static/js/runtime-main.1d510631.js",
     "runtime-main.js.map": "/troy/static/js/runtime-main.1d510631.js.map",
     "static/css/4.8770ffec.chunk.css": "/troy/static/css/4.8770ffec.chunk.css",
-    "static/js/4.72edae8d.chunk.js": "/troy/static/js/4.72edae8d.chunk.js",
-    "static/js/4.72edae8d.chunk.js.map": "/troy/static/js/4.72edae8d.chunk.js.map",
+    "static/js/4.b3f88a0b.chunk.js": "/troy/static/js/4.b3f88a0b.chunk.js",
+    "static/js/4.b3f88a0b.chunk.js.map": "/troy/static/js/4.b3f88a0b.chunk.js.map",
     "static/js/5.f64463bb.chunk.js": "/troy/static/js/5.f64463bb.chunk.js",
     "static/js/5.f64463bb.chunk.js.map": "/troy/static/js/5.f64463bb.chunk.js.map",
     "static/js/6.f94f0dda.chunk.js": "/troy/static/js/6.f94f0dda.chunk.js",
@@ -38,9 +38,9 @@
     "static/js/16.452701ae.chunk.js.map": "/troy/static/js/16.452701ae.chunk.js.map",
     "index.html": "/troy/index.html",
     "static/css/4.8770ffec.chunk.css.map": "/troy/static/css/4.8770ffec.chunk.css.map",
-    "static/css/main.b889eca3.chunk.css.map": "/troy/static/css/main.b889eca3.chunk.css.map",
+    "static/css/main.a95f37a8.chunk.css.map": "/troy/static/css/main.a95f37a8.chunk.css.map",
     "static/js/1.2124fdcd.chunk.js.LICENSE.txt": "/troy/static/js/1.2124fdcd.chunk.js.LICENSE.txt",
-    "static/js/4.72edae8d.chunk.js.LICENSE.txt": "/troy/static/js/4.72edae8d.chunk.js.LICENSE.txt",
+    "static/js/4.b3f88a0b.chunk.js.LICENSE.txt": "/troy/static/js/4.b3f88a0b.chunk.js.LICENSE.txt",
     "static/media/bg-white.webp": "/troy/static/media/bg-white.830f0165.webp",
     "static/media/bg_blog_home.8e43a4c4.webp": "/troy/static/media/bg_blog_home.8e43a4c4.webp",
     "static/media/feedback.svg": "/troy/static/media/feedback.246150cd.svg",
@@ -53,8 +53,8 @@
   "entrypoints": [
     "static/js/runtime-main.1d510631.js",
     "static/css/4.8770ffec.chunk.css",
-    "static/js/4.72edae8d.chunk.js",
-    "static/css/main.b889eca3.chunk.css",
-    "static/js/main.737a2293.chunk.js"
+    "static/js/4.b3f88a0b.chunk.js",
+    "static/css/main.a95f37a8.chunk.css",
+    "static/js/main.8c95c866.chunk.js"
   ]
 }
