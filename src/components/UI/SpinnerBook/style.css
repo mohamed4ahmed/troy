@@ -4,6 +4,7 @@
 	align-items: center;
 	position: relative;
 	justify-content: center;
+	background-color: rgba(246, 194, 73, 0.8);
 }
 
 .block {
@@ -26,7 +27,7 @@
 }
 
 .blue {
-	--bg: linear-gradient(50deg, #eea74a 0%, #c2bbb4 100%);
+	--bg: linear-gradient(50deg, #c9e7f7 0%, #1f1e1a 100%);
 	margin-left: var(--hm);
 	animation: attract-blue var(--animation);
 }
