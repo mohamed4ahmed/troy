@@ -56,7 +56,6 @@ const Footer = () => {
               className={classes.footer__rightLink}
               href="whatsapp://send?text=order&phone=+201019955700"
               target="__blank"
-              aria-label="Whatsapp"
             >
               <FaWhatsapp />
             </a>
