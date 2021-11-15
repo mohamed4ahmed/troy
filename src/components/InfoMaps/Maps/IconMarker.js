@@ -1,9 +1,9 @@
 import L from "leaflet";
-import iconUrl from "../../../assets/img/logo-circle.png";
+import iconUrl from "../../../assets/img/logo-web-white.png";
 
 const iconTroy = new L.Icon({
 	iconUrl: iconUrl,
-	iconSize: [32, 64],
+	iconSize: [46, 64],
 	iconAnchor: [32, 64],
 	shadowUrl: null,
 	shadowSize: null,

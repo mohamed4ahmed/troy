@@ -2,6 +2,9 @@ import { Button, Container, Typography } from "@material-ui/core";
 import React from "react";
 import { useStyles } from "./InfoMaps.elements";
 import { SiGooglemaps } from "react-icons/si";
+import { FaWhatsapp } from "react-icons/fa";
+import { SiGooglemaps } from "react-icons/si";
+import { SiGooglemaps } from "react-icons/si";
 import Maps from "./Maps/Maps";
 
 const InfoMaps = () => {
@@ -20,11 +23,19 @@ const InfoMaps = () => {
 								Address: 2st Nour Eleman, Elmahala-Elkoubra, Gharbia, Egypt
 								</Typography>
 								<Typography variant="h6" className={classes.subTitle}>
-								Phone number: <a href="tel:+201019955700">+20 101 995 5700</a>   <a href="tel:+201226598444">+20 122 659 8444</a>
+								Phone number: <a href="tel:+201019955700"><FaPhone /> +20 101 995 5700</a>   
+								</Typography>
+
+								<Typography variant="h6" className={classes.subTitle}>
+								<a href="tel:+201226598444"><FaPhone /> +20 122 659 8444</a>
 								</Typography>
 								
 								<Typography variant="h6" className={classes.subTitle}>
-								 Email: <a href="mailto:troycoffe@gmail.com">troycoffe14@gmail.com</a>
+								 Email: <a href="mailto:troycoffe@gmail.com"><MdEmail /> troycoffe14@gmail.com</a>
+								</Typography>
+
+								<Typography variant="h6" className={classes.subTitle}>
+								<FaWhatsapp /> WhatsApp: <a href="whatsapp://send?text=order&phone=+201019955700"><FaWhatsapp /> WhatsApp </a>
 								</Typography>
 							</div>
 							<a

@@ -3,7 +3,7 @@ import React from "react";
 import { useStyles } from "./Footer.elements";
 import logoImg from "../../assets/img/logo-web-white.png";
 import { NavLink } from "react-router-dom";
-import { FaFacebook, FaInstagram } from "react-icons/fa";
+import { FaFacebook, FaInstagram, FaWhatsapp } from "react-icons/fa";
 
 const Footer = () => {
   const classes = useStyles();
@@ -51,6 +51,14 @@ const Footer = () => {
               aria-label="Instagram"
             >
               <FaInstagram />
+            </a>
+            <a
+              className={classes.footer__rightLink}
+              href="whatsapp://send?text=order&phone=+201019955700"
+              target="__blank"
+              aria-label="Whatsapp"
+            >
+              <FaWhatsapp />
             </a>
           </div>
         </div>
