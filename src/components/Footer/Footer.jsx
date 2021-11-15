@@ -54,8 +54,7 @@ const Footer = () => {
             </a>
             <a
               className={classes.footer__rightLink}
-              href="whatsapp://send?text=order&phone=+201019955700"
-              target="__blank"
+              href="whatsapp://send?text=test&phone=+201019955700"
             >
               <FaWhatsapp />
             </a>

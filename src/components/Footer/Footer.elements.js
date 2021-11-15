@@ -89,6 +89,9 @@ export const useStyles = makeStyles((theme) => ({
 		"&:nth-child(2)": {
 			marginLeft: "15px",
 		},
+		"&:nth-child(3)": {
+			marginLeft: "15px",
+		},
 		"&:hover": {
 			color: "rgba(246,194,73, 1)",
 		},

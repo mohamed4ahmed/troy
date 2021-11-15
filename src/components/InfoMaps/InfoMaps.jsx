@@ -23,11 +23,11 @@ const InfoMaps = () => {
 								Address: 2st Nour Eleman, Elmahala-Elkoubra, Gharbia, Egypt
 								</Typography>
 								<Typography variant="h6" className={classes.subTitle}>
-								Phone number: <a href="tel:+201019955700"><FaPhone /> +20 101 995 5700</a>   
+								Phone number owner: <a href="tel:+201226598444"><FaPhone /> 01226598444</a>   
 								</Typography>
 
 								<Typography variant="h6" className={classes.subTitle}>
-								<a href="tel:+201226598444"><FaPhone /> +20 122 659 8444</a>
+								Phone number service: <a href="tel:+201093800881"><FaPhone /> +201093800881</a>
 								</Typography>
 								
 								<Typography variant="h6" className={classes.subTitle}>
@@ -35,7 +35,7 @@ const InfoMaps = () => {
 								</Typography>
 
 								<Typography variant="h6" className={classes.subTitle}>
-								<FaWhatsapp /> WhatsApp: <a href="whatsapp://send?text=order&phone=+201019955700"><FaWhatsapp /> WhatsApp </a>
+								WhatsApp Owner: <a href="whatsapp://send?text=test&phone=+201019955700"><FaWhatsapp /> WhatsApp </a>
 								</Typography>
 							</div>
 							<a
