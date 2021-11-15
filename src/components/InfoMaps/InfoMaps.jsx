@@ -2,9 +2,9 @@ import { Button, Container, Typography } from "@material-ui/core";
 import React from "react";
 import { useStyles } from "./InfoMaps.elements";
 import { SiGooglemaps } from "react-icons/si";
-import { FaWhatsapp } from "react-icons/fa";
-import { SiGooglemaps } from "react-icons/si";
-import { SiGooglemaps } from "react-icons/si";
+import { FaWhatsapp , FaPhone} from "react-icons/fa";
+import { MdEmail} from "react-icons/md";
+
 import Maps from "./Maps/Maps";
 
 const InfoMaps = () => {
